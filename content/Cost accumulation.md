@@ -1,0 +1,1 @@
+Collecting [[Costs]] by some "natural" classification.

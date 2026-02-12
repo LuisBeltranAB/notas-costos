@@ -1,0 +1,1 @@
+It was implemented in the 2,000s because Enron was faking [[Performance reports]]. This new law makes high order executives accountable for the numbers reported.

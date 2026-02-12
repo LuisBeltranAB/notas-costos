@@ -1,0 +1,1 @@
+The profit a company makes.

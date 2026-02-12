@@ -1,0 +1,1 @@
+Cannot be identified specifically and exclusively with a given cost objective in an economically feasible way.

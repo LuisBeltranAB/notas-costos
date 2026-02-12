@@ -1,0 +1,1 @@
+Assign [[Costs]] to different activities or departments ([[Cost object]]) within the operation.

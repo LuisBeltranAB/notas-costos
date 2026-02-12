@@ -1,0 +1,1 @@
+It is a mix of [[Fixed cost]] and [[Variable cost]]. This means, the cost remains the same as you increase the [[Cost driver]]. Then, suddenly the cost rises. Similar to a mathematical step function.

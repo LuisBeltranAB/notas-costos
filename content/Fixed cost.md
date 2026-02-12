@@ -1,0 +1,1 @@
+Differs from [[Variable cost]] as changes in the [[Cost driver]] does not affect the magnitude of a fixed cost. For example, renting a factory or store. No matter how much the [[Cost driver]] changes, rent will be the same.

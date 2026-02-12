@@ -1,0 +1,10 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      not:
+        - file.inFolder("Clases")
+    order:
+      - file.name

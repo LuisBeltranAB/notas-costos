@@ -1,0 +1,1 @@
+It's a collection of tools and techniques that identify how management decisions affect [[Costs]].

@@ -1,0 +1,1 @@
+A mixed cost involves the combination of [[Variable cost]] and [[Fixed cost]]. Take for instance, a salesman that receives a fixed salary, plus a bonus for each completed sale.

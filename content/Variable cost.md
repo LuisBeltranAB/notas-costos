@@ -1,0 +1,1 @@
+A variable cost changes in proportion to the change in the [[Cost driver]].

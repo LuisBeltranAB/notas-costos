@@ -1,0 +1,1 @@
+Are deducted as [[Expenses]] during the current period without going through an [[Inventory]] stage.

@@ -1,0 +1,1 @@
+Gathers and analyzes data needed to make decisions inside a company. This differs from [[Financial accounting]] where the goal is informing the outside public and investors.

@@ -1,0 +1,1 @@
+Is some measure of input or output that determines the amount of cost to be allocated to a particular [[Costs]].

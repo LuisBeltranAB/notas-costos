@@ -1,0 +1,1 @@
+The amount of money a company receives for all items sold.

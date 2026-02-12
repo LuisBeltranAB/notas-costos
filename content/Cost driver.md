@@ -1,0 +1,1 @@
+Cost driver is the main activity that causes the cost of an operation to rise. For example, Toyota has to decide if it makes 100 or 1,000 cars. The costs for each amount is different. Thus, car creation is the cost driver.

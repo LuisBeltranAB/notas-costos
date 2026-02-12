@@ -1,0 +1,1 @@
+The aggregated accounting of the company's wins or losses. Its purpose is informing the public and investors. This differs from [[Administrative accounting]] where the goal is informing inside parties.

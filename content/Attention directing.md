@@ -1,0 +1,1 @@
+Involves reporting and interpreting information that helps managers to focus on operating problems

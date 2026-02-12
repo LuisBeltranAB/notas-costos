@@ -1,0 +1,1 @@
+Some [[Costs]] lack an identifiable relationship to a [[Cost object]]. Often it is best to leave such costs unallocated.

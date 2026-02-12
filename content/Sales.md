@@ -1,0 +1,1 @@
+Is the amount of money a company has after selling X amount of their products.

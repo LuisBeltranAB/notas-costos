@@ -1,0 +1,1 @@
+Also called [[Manufacturing overhead]]. Includes all [[Costs]] associated with the production process that the company cannot trace to the manufactured goods.

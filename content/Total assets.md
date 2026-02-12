@@ -1,0 +1,1 @@
+The recorded value of the items owned by a company.

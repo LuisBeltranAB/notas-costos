@@ -1,0 +1,1 @@
+The final performance review of a company or project. It compares how reality unfolded against the planned budget.

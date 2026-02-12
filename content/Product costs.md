@@ -1,0 +1,2 @@
+[[Costs]] identified with goods produced or purchase for resale.
+These costs first become part of the [[Inventory on hand]], sometimes called inventoriable costs. Inventoriable costs become [[Expenses]] in the form of [[Cost of goods sold]] only when the inventory is sold.

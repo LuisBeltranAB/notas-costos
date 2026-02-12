@@ -1,0 +1,1 @@
+Wages of all labor that can be traced specifically and exclusively to the manufactured goods.
